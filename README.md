@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ahoura</h1>
 <h3 align="center">A passionate web developer from Madison, Wi</h3>
 
-- 🔭 I’m currently working on **Coming Soon**
+- 🔭 I’m currently working on **a sale bot**
 
 - 🌱 I’m currently learning **React and improving my backend development**
-
-- 👨‍💻 All of my projects are available at [Coming Soon](Coming Soon)
 
 - 💬 Ask me about **Web Dev, Node.js, Python and NFTs**
 
 - 📫 How to reach me **ahoura.mortazavi@gmail.com**
 
-- 📄 Know about my experiences [Coming Soon!](Coming Soon!)
+- 📄 Know about my experiences from my <a href="https://www.linkedin.com/in/ahoura-mortazavi/"> Linkedin
 
 - ⚡ Fun fact **I have 3 drivers licenses from 3 different countries!**
 
