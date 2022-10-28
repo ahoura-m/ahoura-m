@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ahoura.mortazavi@gmail.com**
 
-- 📄 Know about my experiences from my <a href="https://www.linkedin.com/in/ahoura-mortazavi/"> Linkedin
+- 📄 Know about my experiences from my <a href="https://www.linkedin.com/in/ahoura/"> Linkedin
 
 - ⚡ Fun fact **I have 3 drivers licenses from 3 different countries!**
 
