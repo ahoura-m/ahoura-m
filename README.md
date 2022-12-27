@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React and improving my backend development**
 
-- 💬 Ask me about **Web Dev, Node.js, Python and NFTs**
+- 💬 Ask me about **Web Dev, Node.js, Python and Web 3.0**
 
 - 📫 How to reach me **ahoura.mortazavi@gmail.com**
 
