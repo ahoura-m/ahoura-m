@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahoura</h1>
 <h3 align="center">A passionate web developer from Madison, Wi</h3>
 
-- 🔭 I’m currently working on **a sale bot**
+- 🔭 I’m currently working on **a sales bot**
 
 - 🌱 I’m currently learning **React and improving my backend development**
 
